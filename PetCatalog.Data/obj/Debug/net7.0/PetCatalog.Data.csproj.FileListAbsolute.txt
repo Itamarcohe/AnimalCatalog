@@ -1,0 +1,17 @@
+C:\Users\itama\Desktop\PetCatalog-Project\PetCatalog.Data\bin\Debug\net7.0\PetCatalog.Data.deps.json
+C:\Users\itama\Desktop\PetCatalog-Project\PetCatalog.Data\bin\Debug\net7.0\PetCatalog.Data.runtimeconfig.json
+C:\Users\itama\Desktop\PetCatalog-Project\PetCatalog.Data\bin\Debug\net7.0\PetCatalog.Data.dll
+C:\Users\itama\Desktop\PetCatalog-Project\PetCatalog.Data\bin\Debug\net7.0\PetCatalog.Data.pdb
+C:\Users\itama\Desktop\PetCatalog-Project\PetCatalog.Data\bin\Debug\net7.0\PetCatalog.Models.dll
+C:\Users\itama\Desktop\PetCatalog-Project\PetCatalog.Data\bin\Debug\net7.0\PetCatalog.Models.pdb
+C:\Users\itama\Desktop\PetCatalog-Project\PetCatalog.Data\obj\Debug\net7.0\PetCatalog.Data.csproj.AssemblyReference.cache
+C:\Users\itama\Desktop\PetCatalog-Project\PetCatalog.Data\obj\Debug\net7.0\PetCatalog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itama\Desktop\PetCatalog-Project\PetCatalog.Data\obj\Debug\net7.0\PetCatalog.Data.AssemblyInfoInputs.cache
+C:\Users\itama\Desktop\PetCatalog-Project\PetCatalog.Data\obj\Debug\net7.0\PetCatalog.Data.AssemblyInfo.cs
+C:\Users\itama\Desktop\PetCatalog-Project\PetCatalog.Data\obj\Debug\net7.0\PetCatalog.Data.csproj.CoreCompileInputs.cache
+C:\Users\itama\Desktop\PetCatalog-Project\PetCatalog.Data\obj\Debug\net7.0\PetCatalog.Data.csproj.CopyComplete
+C:\Users\itama\Desktop\PetCatalog-Project\PetCatalog.Data\obj\Debug\net7.0\PetCatalog.Data.dll
+C:\Users\itama\Desktop\PetCatalog-Project\PetCatalog.Data\obj\Debug\net7.0\refint\PetCatalog.Data.dll
+C:\Users\itama\Desktop\PetCatalog-Project\PetCatalog.Data\obj\Debug\net7.0\PetCatalog.Data.pdb
+C:\Users\itama\Desktop\PetCatalog-Project\PetCatalog.Data\obj\Debug\net7.0\PetCatalog.Data.genruntimeconfig.cache
+C:\Users\itama\Desktop\PetCatalog-Project\PetCatalog.Data\obj\Debug\net7.0\ref\PetCatalog.Data.dll

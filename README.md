@@ -1,6 +1,6 @@
 # AnimalCatalog
 
-Welcome to AnimalCatalog, a comprehensive pet shop website crafted with ASP.NET Core MVC and EntityFramework Core. This platform is designed to streamline the management and acquisition of pets, offering an extensive range of CRUD operations tailored for both customers and administrators. With advanced features like user login, roles, and pagination, AnimalCatalog ensures a seamless user experience for pet lovers and shop administrators alike.
+Welcome to AnimalCatalog, a comprehensive pet catalog website crafted with ASP.NET Core MVC and EntityFramework Core. This platform is designed to streamline the management and acquisition of pets, offering an extensive range of CRUD operations tailored for both customers and administrators. With advanced features like user login, roles, and pagination, AnimalCatalog ensures a seamless user experience for pet lovers and shop administrators alike.
 
 ## Features
 
